@@ -55,7 +55,7 @@ Model can be deployed on Raspberry Pi to monitor aquaculture tanks in real-time.
 ## 📊 Results
 - Test Accuracy: **XX%**
 - Example Predictions:
-  ![Prediction Example](sample_output)
+  ![Folder with sample outputs](sample_outputs)
 
 ## 📜 License
 MIT License
